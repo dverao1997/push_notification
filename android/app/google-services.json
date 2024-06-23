@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956709589750",
+    "project_id": "flutter-projects-f223b",
+    "storage_bucket": "flutter-projects-f223b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956709589750:android:3d7173efa21ffe9ab712d7",
+        "android_client_info": {
+          "package_name": "com.diegovera.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWEBVJS72RqFxuV8UFQdxWO-e0OLIyWr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
